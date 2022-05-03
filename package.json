@@ -1,0 +1,23 @@
+{
+  "name": "webschool_test01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/yaniselmaleh/webschool_test01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/yaniselmaleh/webschool_test01/issues"
+  },
+  "homepage": "https://gitlab.com/yaniselmaleh/webschool_test01#readme",
+  "dependencies": {
+    "gitmoji-cli": "^5.0.0"
+  }
+}
